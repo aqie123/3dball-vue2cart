@@ -26,7 +26,7 @@ var vm =new Vue({
     cartView:function(){ 
         // var _this = this;       // 函数内部作用域变化     
         this.title = "hello aqie";
-        vm.$http.get("https://github.com/aqie123/3dball-vue2cart/blob/master/data/cartData.json",{
+        vm.$http.get("https://aqie123.github.io/3dball-vue2cart/data/cartData.json",{
           "id":1,
         }).then(res => {
           this.productList = res.body.result.list;
