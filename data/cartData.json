@@ -1,0 +1,39 @@
+{
+  "status": 1,
+  "result": {
+    "totalMoney": 59,
+    "list": [
+      {
+        "productId": "000001",
+        "productName": "iPhone 7",
+        "productPrice": 100,
+        "productQuentity": 1,
+        "productImage": "img/goods-1.png",
+        "parts": [
+          {
+            "partsId": "1001",
+            "partName": "打火机"
+          },
+          {
+            "partsId": "1003",
+            "partName": "吹风机"
+          }
+        ]
+      },
+      {
+        "productId": "000002",
+        "productName": "MacBook Pro",
+        "productPrice": 10000,
+        "productQuentity": 4,
+        "productImage": "img/goods-2.png",
+        "parts": [
+          {
+            "partsId": "1002",
+            "partName": "吸管"
+          }
+        ]
+      }
+    ]
+  },
+  "message": "1111"
+}

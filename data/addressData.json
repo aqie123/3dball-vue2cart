@@ -1,0 +1,46 @@
+{
+  "status": 0,
+  "message": "",
+  "result": [
+    {
+      "addressId": "000001",
+      "username": "xman",
+      "streetName": "北京五道口",
+      "postCode": 10001,
+      "tel": "19218212345",
+      "isDefault": true
+    },
+    {
+      "addressId": "000002",
+      "username": "xman2",
+      "streetName": "五道口",
+      "postCode": 10002,
+      "tel": "10112212346",
+      "isDefault": false
+    },
+    {
+      "addressId": "000003",
+      "username": "xman3",
+      "streetName": "北京天安门",
+      "postCode": 10003,
+      "tel": "19218212347",
+      "isDefault": false
+    },
+    {
+      "addressId": "000004",
+      "username": "xman8",
+      "streetName": "天津狗不理",
+      "postCode": 10004,
+      "tel": "19218212345",
+      "isDefault": false
+    },
+    {
+      "addressId": "000005",
+      "username": "xman5",
+      "streetName": "庐山",
+      "postCode": 10005,
+      "tel": "19218212349",
+      "isDefault": false
+    }
+  ]
+}
