@@ -18,7 +18,7 @@ new Vue({
   },
   methods:{
     getAddressList:function(){
-      this.$http.get("https://github.com/aqie123/3dball-vue2cart/blob/master/data/addressData.json",{
+      this.$http.get("https://aqie123.github.io/3dball-vue2cart/data/addressData.json",{
         "id":2,
       }).then(response =>{
         var res = response.data;
